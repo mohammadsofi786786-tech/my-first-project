@@ -2,5 +2,5 @@
 welcome to github 
 <br>
 and
-<br
-  >doing my first project
+<br>
+doing my first project
